@@ -1,9 +1,6 @@
 # django_admin_theme
 Django Admin Theme
 
-# django_admin_interface
-Django Admin Interface
-
 In this project I have covered the how to integrate AdmintLTE theme to Django admin interface.
 
 Running the Project Locally First, clone the repository to your local machine.
