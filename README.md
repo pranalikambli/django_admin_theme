@@ -1,5 +1,4 @@
-# django_admin_theme
-Django Admin Theme
+# Django Admin Theme
 
 In this project I have covered the how to integrate AdmintLTE theme to Django admin interface.
 
